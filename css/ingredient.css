@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    background-color: blue;
+    color: white;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+    padding: 10px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 650px;
+    height: 650px;
+}
+.spanning h1{
+    font-size: 40px;
+    color: blue;
+}
+
+.spanning p{
+    font-size: 20px;
+}
+
+.spanning span{
+    font-size: 35px;
+    color:blue;
+    text-transform: capitalize;
+}

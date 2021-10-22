@@ -1,26 +1,26 @@
 h1{
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: blueviolet;
+    background-color:blue;
     color: white;
 }
 p{
-    font-size: 30px;
+    font-size: 25px;
     color: black;
-    padding: 20px;
+    padding: 0;
     margin: 0;
 }
 h2{
     text-align: left;
-    font-size: 35px;
-    font-family: sans-serif;
-    background-color: cornflowerblue;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blue;
     color: white;
 }
 
 a:hover{
-    color: red;
+    color:green;
 }
 
 .links {
@@ -36,7 +36,12 @@ a:hover{
     text-decoration: none;
 }
 img{
-    width: 400px;
-    height: 400px;
+    width: 330px;
+    height: 330px;
 }
 
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
